@@ -1,0 +1,25 @@
+header {
+  padding: 2rem 1rem;
+}
+
+.log-in-register-container {
+  display: flex;
+  background-color: #1c1e22;
+  border: 1px solid black;
+  justify-content: center;
+  margin-top: -6rem;
+  width: 12%;
+  border-radius: 15px;
+  margin-inline-start: 85%;
+}
+
+.register {
+  border-radius: 15px;
+  background-color: #1c1e22;
+  color: #fcac19;
+  max-width: 50em;
+  font-size: 1.2rem;
+  padding: 0.6em;
+  margin: 0.5em;
+  text-shadow: 0 0 5px black;
+}
